@@ -6,24 +6,24 @@ The Email Spam Detection System is a Machine Learning project designed to classi
 ---
 
 ## 🎯 Objectives
-- To build a reliable spam detection model using real-world data
-- To preprocess and transform textual data into numerical features
-- To evaluate model performance using accuracy metrics
-- To provide predictions on unseen messages
+- To build a reliable spam detection model using real-world data  
+- To preprocess and transform textual data into numerical features  
+- To evaluate model performance using accuracy metrics  
+- To provide predictions on unseen messages  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn
-- **Environment:** Google Colab
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Environment:** Google Colab  
 
 ---
 
 ## 🧠 Machine Learning Approach
 - **Algorithm Used:** Multinomial Naive Bayes  
 - **Feature Extraction:** CountVectorizer  
-- **Model Type:** Supervised Learning (Classification)
+- **Model Type:** Supervised Learning (Classification)  
 
 ---
 
@@ -41,7 +41,7 @@ The Email Spam Detection System is a Machine Learning project designed to classi
 
 ## 📊 Model Performance
 - **Accuracy:** ~98.3%  
-- The model demonstrates high precision in distinguishing spam from legitimate messages.
+- The model demonstrates high precision in distinguishing spam from legitimate messages.  
 
 ---
 
@@ -80,12 +80,3 @@ The Email Spam Detection System is a Machine Learning project designed to classi
 - Deploy as a web application using Streamlit  
 - Integrate Deep Learning models for improved performance  
 
----
-
-## 👨‍💻 Author
-- vuredeepthi
-
----
-
-## 📎 Project Link
-(Add your GitHub repo link here)
