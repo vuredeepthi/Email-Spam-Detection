@@ -83,7 +83,7 @@ The Email Spam Detection System is a Machine Learning project designed to classi
 ---
 
 ## 👨‍💻 Author
-- Your Name  
+- vuredeepthi
 
 ---
 
